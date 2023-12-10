@@ -18,10 +18,7 @@
 				</array>
 				<key>ServerURL</key>
 				<array>
-					<string>https://2a10:50c0::1:ff/dns-query</string>
-					<string>https://2a10:50c0::2:ff/dns-query</string>
 					<string>https://94.140.14.140/dns-query</string>
-					<string>https://94.140.14.141/dns-query</string>
 				</array>
 			</dict>
 			<key>PayloadDescription</key>
